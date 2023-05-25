@@ -1,2 +1,18 @@
 # DS_Assignment5
-Data visualization
+Data visualization:
+Importance of data visualization in data analysis:
+Data visualization helps data scientists perform complex data analysis, recognizing patterns, and understanding datasets.
+It can tackle the difficulty of placing the information of both perspectives into the pictorial structure. 
+This will unquestionably give a superior comprehension of the circumstances.
+Data visualization saves the time.Data is uderstandable when it is plotted, in a easy way.
+Data visualization is to make it easier to identify patterns, trends and outliers in large data sets.
+Visuals role in communication:
+Visuals, such as pictures, drawings, charts, graphs and diagrams, can be effective tools for communicating health information.
+Visuals can make the presentation of complex information easier to comprehend and more attractive.
+Visual representations help students develop a deeper understanding of the problems they are working with, making them more effective problem solvers.
+In this assignment visual representations like Line,Scatter,Heatmap are done.Considered dataset is airline passenger satisfaction list.
+Line graph shows the filtered dataset's all parameters like ID, Age,gender,customer type,type of travel,Bagggage handling,
+In flight entertainment,customer's satisfaction these all are plotted most of the customers are satisfied with the airline service.
+Scatter plot is plotted for the comparision of gender and age it is almost equal and seat comfort and cleanliness is also.
+Using a heatmap to visualise a confusion matrix, time-series movements, temperature changes, correlation matrix and SHAP interaction values.
+Heatmap is plotted it gives information about data in the form of representing colors.
